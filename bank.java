@@ -1,4 +1,4 @@
-class Bank{
+class Bank{ // Bank code starts here
     private int customer_id;
     protected int account_num;
     String ifsc_code;
